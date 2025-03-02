@@ -8,7 +8,7 @@ This project visualizes trigonometric functions using matplotlib
 ## Install - using Git
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/user/repo.git](https://github.com/BogdanVlad06/Cosine-and-Secant-diagram)
+   git clone https://github.com/BogdanVlad06/Cosine-and-Secant-diagram
    
 2. To setup virtual environment:
    ```bash
